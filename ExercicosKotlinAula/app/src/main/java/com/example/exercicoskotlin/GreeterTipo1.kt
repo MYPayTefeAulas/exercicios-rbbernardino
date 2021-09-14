@@ -9,7 +9,7 @@ class GreeterTipo1(val cumprimento: String) {
     // o conteúdo de "cumprimento" varia entre os diferentes greeters, mas a lógica de juntar
     // cumprimento + nome não
     fun greet(nome: String): String {
-        val cumprimentoCompleto = "$cumprimento $nome"
+        val cumprimentoCompleto = "${cumprimento} $nome"
         return cumprimentoCompleto
     }
 }
