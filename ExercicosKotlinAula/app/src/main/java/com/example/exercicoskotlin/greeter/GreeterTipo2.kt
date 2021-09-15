@@ -1,4 +1,4 @@
-package com.example.exercicoskotlin
+package com.example.exercicoskotlin.greeter
 
 class GreeterTipo2 {
     val cumprimento: String

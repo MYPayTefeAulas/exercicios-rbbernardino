@@ -1,4 +1,4 @@
-package com.example.exercicoskotlin
+package com.example.exercicoskotlin.greeter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

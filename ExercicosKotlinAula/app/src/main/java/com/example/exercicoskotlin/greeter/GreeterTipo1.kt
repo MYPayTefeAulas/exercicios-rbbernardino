@@ -1,4 +1,4 @@
-package com.example.exercicoskotlin
+package com.example.exercicoskotlin.greeter
 
 // declaro o atributo enquanto crio construtor nos parênteses
 class GreeterTipo1(val cumprimento: String) {
