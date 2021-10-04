@@ -6,4 +6,28 @@
     android:layout_height="match_parent"
     tools:context=".layouts.LayoutsActivity">
 
+    <TextView
+        android:id="@+id/layouts_txtTitulo"
+        android:textSize="24sp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/layouts_btLinearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="48dp"
+        android:text="Linear Layout 1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/layouts_txtTitulo" />
+
+    <Button
+        android:id="@+id/layouts_btLinearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:text="Linear 2"
+        app:layout_constraintBottom_toBottomOf="@+id/layouts_btLinearLayout"
+        app:layout_constraintStart_toEndOf="@+id/layouts_btLinearLayout"
+        app:layout_constraintTop_toTopOf="@+id/layouts_btLinearLayout" />
 </androidx.constraintlayout.widget.ConstraintLayout>

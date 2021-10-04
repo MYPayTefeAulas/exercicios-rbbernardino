@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ExercicosKotlin</string>
+    <string name="text_enabled">Ativado</string>
+    <string name="text_off">Desligado</string>
+    <string name="text_on">Ligado</string>
+    <string name="text_greeter1">Greeter 1</string>
+    <string name="text_greeter2">Greeter 2</string>
+    <string name="text_greeter3">Greeter 3</string>
+    <string name="btn_show_values">Ver Valores</string>
+    <string name="text_disabled">Desabilitado</string>
+    <string name="msg_result">%1$s\nProgress: %2$d\nNome: %3$s\nOpção: %4$s</string>
 </resources>

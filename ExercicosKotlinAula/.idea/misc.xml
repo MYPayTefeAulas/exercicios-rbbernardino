@@ -3,10 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../../../layout/custom_preview.xml" value="0.37083333333333335" />
         <entry key="../../../../layout/custom_preview.xml" value="0.3614583333333333" />
+        <entry key="app/src/main/res/layout/activity_calculadora.xml" value="0.75" />
+        <entry key="app/src/main/res/layout/activity_calculadora_aula.xml" value="0.47079037800687284" />
+        <entry key="app/src/main/res/layout/activity_ciclo_de_vida.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_greeter1.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/activity_layouts.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/activity_linear_aula.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_linear_layout.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/activity_linear_layout2.xml" value="0.35520833333333335" />
         <entry key="app/src/main/res/layout/activity_listas.xml" value="0.67" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3617886178861789" />
+        <entry key="app/src/main/res/layout/activity_outros_componentes.xml" value="0.3072916666666667" />
         <entry key="app/src/main/res/layout/activity_pessoas.xml" value="0.67" />
         <entry key="app/src/main/res/layout/activity_tela_inicial.xml" value="0.5" />
       </map>

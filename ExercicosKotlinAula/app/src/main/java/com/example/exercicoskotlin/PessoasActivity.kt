@@ -29,6 +29,7 @@ class PessoasActivity : AppCompatActivity() {
             binding.txtIdade.text.clear()
 
             val pessoa = Pessoa(nome, idade)
+
             listaPessoas.add(pessoa)
         }
 
