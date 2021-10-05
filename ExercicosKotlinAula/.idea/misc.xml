@@ -5,12 +5,13 @@
       <map>
         <entry key="../../../../../../../../layout/custom_preview.xml" value="0.37083333333333335" />
         <entry key="../../../../layout/custom_preview.xml" value="0.3614583333333333" />
+        <entry key="app/src/main/res/layout/activity_agenda_intent.xml" value="0.3015625" />
         <entry key="app/src/main/res/layout/activity_calculadora.xml" value="0.75" />
         <entry key="app/src/main/res/layout/activity_calculadora_aula.xml" value="0.47079037800687284" />
         <entry key="app/src/main/res/layout/activity_ciclo_de_vida.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_greeter1.xml" value="0.67" />
         <entry key="app/src/main/res/layout/activity_layouts.xml" value="0.35520833333333335" />
-        <entry key="app/src/main/res/layout/activity_linear_aula.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_linear_aula.xml" value="0.6172284644194757" />
         <entry key="app/src/main/res/layout/activity_linear_layout.xml" value="0.67" />
         <entry key="app/src/main/res/layout/activity_linear_layout2.xml" value="0.35520833333333335" />
         <entry key="app/src/main/res/layout/activity_listas.xml" value="0.67" />

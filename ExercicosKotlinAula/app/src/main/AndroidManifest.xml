@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ExercicosKotlin">
         <activity
+            android:name=".intents.AgendaEditarContatoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".intents.AgendaIntentActivity"
+            android:exported="true" />
+        <activity
             android:name=".layouts.CalculadoraAulaActivity"
             android:exported="true" />
         <activity
